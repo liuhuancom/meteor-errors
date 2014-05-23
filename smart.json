@@ -1,8 +1,8 @@
 {
-  "name": "errors_liuhuancom",
+  "name": "liuhuancom",
   "description": "liuhuancom",
   "homepage": "hhttps://github.com/liuhuancom/meteor-errors",
   "author": "liuhuancom",
-  "version": "0.2.1",
+  "version": "0.0.1",
   "git": "https://github.com/liuhuancom/meteor-errors.git"
 }
