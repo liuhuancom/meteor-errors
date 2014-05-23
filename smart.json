@@ -1,8 +1,8 @@
 {
-  "name": "errors",
-  "description": "A pattern to display application errors to the user",
-  "homepage": "https://github.com/tmeasday/meteor-errors",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "name": "errors_liuhuancom",
+  "description": "liuhuancom",
+  "homepage": "hhttps://github.com/liuhuancom/meteor-errors",
+  "author": "liuhuancom",
   "version": "0.2.1",
-  "git": "https://github.com/tmeasday/meteor-errors.git"
+  "git": "https://github.com/liuhuancom/meteor-errors.git"
 }
